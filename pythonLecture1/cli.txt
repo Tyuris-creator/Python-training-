@@ -1,0 +1,16 @@
+ls - list
+cp - copy a file
+mv - move or rename
+rm -delete, remove
+mkdir - make a folder
+cd - change directory
+rmdir -remove directory
+clear - clean cli
+
+cp hello.py goodbye.py (make a copy with renaming)
+mv goodbye.py farewell.py (rename)
+rm farewell.py (delete (safe))
+mkdir folder (made a filder named folder)
+cd folder/ (go to folder)
+mv farewell.py .. (moving to parent folder)
+rmdir (deleting folder)
