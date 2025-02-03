@@ -1,6 +1,6 @@
 import sys
 
-from pythonLecture5.customFunc import hello, goodbye
+from customFunc import hello, goodbye
 
 if len(sys.argv) == 2:
     hello(sys.argv[1])
