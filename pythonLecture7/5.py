@@ -1,5 +1,5 @@
 names = []
-with open("names.txt", "r") as file:
+with open("names.csv", "r") as file:
     #lines = file.readlines() #read all lines from file and return as a list
     for line in file:
         print("hello,", line.rstrip())
